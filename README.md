@@ -9,7 +9,7 @@ Investment managers, Risk and Compliance professionals use a wide variety of too
 
 To learn more about Coalesce, visit our website{:new_window}.
 
-To start using Coalesce, please first sign up for an account. Click here{:new_window} to get started!
+To start using Coalesce, please first sign up for an account. Click <a href="http://coalesce.info/">here</a>{:new_window} to get started!
 
 Once you've signed up to use Coalesce, there are a few easy steps to go live.
 
