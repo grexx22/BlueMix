@@ -15,7 +15,7 @@ lastupdated: "2017-11-08"
 {:pre: .pre}
 
 
-# Colesce.Info for BlueMix
+# Coalesce.Info for BlueMix
 
 # Getting Started with Coalece.Info for Risk Analysis
 {: #gettingstarted_coalesce}
@@ -34,7 +34,7 @@ Once you've signed up to use Coalesce.Info, there are a few easy steps to go liv
   
 3.	Copy your Coalesce credentials keys into the Bluemix developer portal (Note: Never share your credentials API keys outside of the Bluemix developer portal!)
 
-4.	Use the Coalesce API for real-time access (requires subscription) 
+4.	Use the Coalesce.Info API for real-time access (requires subscription) 
 
 
-Coalesce is free for 7 days. After that you will need to subscribe for continued access.
+Coalesce.Info is free for 7 days. After that you will need to subscribe for continued access.
