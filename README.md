@@ -1,13 +1,27 @@
-# BlueMix
-Colesce.Info for BlueMix
+---
 
-Getting Started with Coalece.Info for Risk Analysis
+copyright:
 
-{: #gettingstarted_coalesce}
+  years:  2017
+
+lastupdated: "2017-11-08"
+
+---
+
+{:new_window: target="_blank"}
+{:shortdesc: .shortdesc}
+{:screen:.screen}
+{:codeblock:.codeblock}
+{:pre: .pre}
+
+
+#Colesce.Info for BlueMix
+
+#Getting Started with Coalece.Info for Risk Analysis{: #gettingstarted_coalesce}
 
 Investment managers, Risk and Compliance professionals use a wide variety of tools to understand the risks inherent in their investments. Coalesce is a unique Artificial Intelligence product that uses IBM Watson® to allow analysts and business users to search the internet and all forms of internal data for “Signals” that may be relevant to risk analysis.{:shortdesc}
 
-To learn more about Coalesce, visit our website{:new_window}.
+To learn more about Coalesce, visit our [website](http://coalesce.info/){:new_window}.
 
 To start using Coalesce, please first sign up for an account. Click <a href="http://coalesce.info/">here</a>{:new_window} to get started!
 
