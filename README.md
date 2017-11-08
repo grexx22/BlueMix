@@ -21,13 +21,13 @@ lastupdated: "2017-11-08"
 
 Investment managers, Risk and Compliance professionals use a wide variety of tools to understand the risks inherent in their investments. Coalesce is a unique Artificial Intelligence product that uses IBM Watson® to allow analysts and business users to search the internet and all forms of internal data for “Signals” that may be relevant to risk analysis.{:shortdesc}
 
-To learn more about Coalesce, visit our [website](http://coalesce.info/){:new_window}.
+To learn more about Coalesce.Info, visit our [website](http://coalesce.info/) {:new_window}.
 
-To start using Coalesce, please first sign up for an account. Click <a href="http://coalesce.info/">here</a>{:new_window} to get started!
+To start using Coalesce.Info, please first sign up for an account. Click [here](https://v2-0.coalesce.info/html/index.html#/signup){:new_window} to get started!
 
-Once you've signed up to use Coalesce, there are a few easy steps to go live.
+Once you've signed up to use Coalesce.Info, there are a few easy steps to go live.
 
-1.	Review our comprehensive Documentation{:new_window} and Quickstart guide{:new_window} -- designed to make it as easy as possible to get up-and-running with Coalesce.Info.
+1.	Review our comprehensive [Documentation](https://v2-0.coalesce.info/swagger-ui.html){:new_window} and [Quickstart guide](/setup/Coalesce_API_Document-IBM.docx){:new_window} -- designed to make it as easy as possible to get up-and-running with Coalesce.Info.
 
 2.	Log into the demo application to view news alerts for the sample Fortune 500 companies.
   
