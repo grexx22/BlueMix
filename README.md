@@ -28,9 +28,9 @@ To start using Coalesce.Info, please first sign up for an account. Click [here](
 
 Once you've signed up to use Coalesce.Info, there are a few easy steps to go live.
 
-1.  Log-in into the demo application with the credentials used for signup to view news alerts for the sample Fortune 500 companies.
+1.  [Log-in](https://v2-0.coalesce.info/html/index.html#/login){:new_window} into the Coalesce.Info with the credentials used for signup to view news alerts for the sample Fortune 500 companies.
   
-2.	Copy your Coalesce credentials keys into the Bluemix developer portal (Note: Never share your credentials / API keys outside of the Bluemix developer portal!)
+2.	Copy your Coalesce username / password credentials into the Bluemix developer portal (Note: Never share your credentials outside of the Bluemix developer portal!)
 
 3.	Use the Coalesce.Info API for real-time access (requires subscription) 
 
