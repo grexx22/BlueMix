@@ -327,14 +327,10 @@ public class HttpBasicAuth {
 
 By default the response from the API feed is in JSON format. 
 
-<!--  Moved Related links to toc file:
-# Related Links
-{: #rellinks notoc}
 
 ### Api Reference
 {: #api} 
 
 * [Overview of the Coalesce API](https://v2-0.coalesce.info/swagger-ui.html){:new_window}
 
--->
 
