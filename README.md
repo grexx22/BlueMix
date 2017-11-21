@@ -4,7 +4,7 @@ copyright:
 
   years:  2017
 
-lastupdated: "2017-11-08"
+lastupdated: "2017-11-21"
 
 ---
 
@@ -36,14 +36,13 @@ Once you've signed up to use Coalesce.Info, there are a few easy steps to go liv
 
 Coalesce.Info is free for 7 days. After that you will need to subscribe for continued access.
 
-	Review our comprehensive [Documentation](https://v2-0.coalesce.info/swagger-ui.html){:new_window} and [Quickstart guide](/setup/Coalesce_API_Document-IBM.docx){:new_window} -- designed to make it as easy as possible to get up-and-running with Coalesce.Info.
-
 ## API access 
 
 To access the Coalesce APIs, a valid sessionId is necessary. To generate the sessionId one should have the valid username and password credentials.
 
 You can use the same username / password used for Signup or Contact the support team to create username and password for you.
 
+By default the response from the API feed is in JSON format.
 
 ## Authentication
 
@@ -228,7 +227,7 @@ JSON Format
   {
     "id": 2,
     "name": "LTN Global Communications",
-    "website": "http://www.ltnglobal.com,
+    "website": "http://www.ltnglobal.com",
     "owner": "JW Demo",
     "country": "China",
     "descriptions": "LTN Global Communications is a high-tech company. The Company has one main product, named Shinewonder cluster management system. It provides efficient collaborative rendering task for movies or cartoons, and also offers service of visual customization requirements for different types companies.",
