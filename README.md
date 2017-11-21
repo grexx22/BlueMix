@@ -47,8 +47,11 @@ By default the response from the API feed is in JSON format.
 ## Authentication
 
 Follow the steps to create the sessionId:
+
      URI : https://v2-0.coalesce.info/login.json
+     
      Method : GET
+     
 1.	Concatenate the username and password with the separator ‘:’ and without space.
 2.	Then use a function to encode the string to base64 ASCII String.
 3.	Then Append ‘Basic <base64 String>‘ to the encoded string.
