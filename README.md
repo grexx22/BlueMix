@@ -214,30 +214,30 @@ JSON Format
 [
   {
     "id": 1,
-    "name": "SNaveos",
-    "website": "www.naveosdata.com",
+    "name": "BASF",
+    "website": "https://www.basf.com",
     "owner": "JW Demo",
     "country": "United States of America",
-    "descriptions": "SNaveos, is a United States-based company engaged in providing platforms for team communication. The Company's Slack is the communication platform, which can sync between the desktop, iPhone, iPad or Android device. The Company's read-state synchronization allows users to read something on phone, which the user's laptop would mark those messages as read. It reflects action in one device across all connected devices. Slack notifies a user of new activity on their mobile, desktop or via e-mail. It allows users to add comments for feedback and stars, and offers built-in internal and external sharing. It also features search, filters and sorting, file drag and drop, and pasting of images into Slack from one's clipboard. It allows users to create open channels for the projects, groups and topics that the whole team shares. The channels include messages, files and comments, inline images and video, rich link summaries and integration with various Web services.",
-    "sector": "Information Technology",
+    "descriptions": "At BASF, we create chemistry for a sustainable future. We combine economic success with environmental protection and social responsibility. The approximately 112,000 employees in the BASF Group work on contributing to the success of our customers in nearly all sectors and almost every country in the world. Our portfolio is organized into five segments: Chemicals, Performance Products, Functional Materials & Solutions, Agricultural Solutions and Oil & Gas. BASF generated sales of more than €70 billion in 2015. BASF shares are traded on the stock exchanges in Frankfurt (BAS), London (BFA) and Zurich (AN).\nCredits: https://www.basf.com/en/tools/legal/credits.html.",
+    "sector": "Chemicals",
     "status": "Portfolio Company",
     "customId": "0017126318DB530204A9698F4D2DCF1D",
-    "aliasName": "snaveos",
+    "aliasName": "basf",
     "isActive": true,
     "createdBy": "demo",
     "createdTime": "2017-01-24 11:46:58"
   },
   {
     "id": 2,
-    "name": "LTN Global Communications",
-    "website": "http://www.ltnglobal.com",
+    "name": "Verizon",
+    "website": "http://www.verizon.com",
     "owner": "JW Demo",
-    "country": "China",
-    "descriptions": "LTN Global Communications is a high-tech company. The Company has one main product, named Shinewonder cluster management system. It provides efficient collaborative rendering task for movies or cartoons, and also offers service of visual customization requirements for different types companies.",
-    "sector": "Information Technology",
+    "country": "United States",
+    "descriptions": "What makes a great career? If you ask us, we’ll tell you that it’s the experience, the people and the sense of pride that comes from delivering what people want and need from the digital world.   \n\nVerizon powers America’s fastest and most reliable network. We’re also leading the way in cloud and security solutions, Internet of Things and video entertainment.  \n\nTechnology moves fast and so do we. We continuously innovate and learn from the best. We believe that bringing great ideas and customer experiences to life should be recognized and rewarded. Our work perks include competitive pay, health and wellness benefits, tuition assistance and more. You’ll find adventure in one of our many global offices, located in 150 countries and 2,700 cities. \n\nWhether you think in code, words, pictures or numbers, find your future at Verizon.",
+    "sector": "Information Technology and Services",
     "status": "Portfolio Company",
     "customId": "0BCD91B542E70FBC9117DA001D1E4005",
-    "aliasName": "ltn global communications",
+    "aliasName": "verizon",
     "isActive": true,
     "createdBy": "demo",
     "createdTime": "2017-01-24 11:46:58"
@@ -328,9 +328,20 @@ public class HttpBasicAuth {
 By default the response from the API feed is in JSON format. 
 
 
+<!--  Moved Related links to toc file:
+# Related Links
+{: #rellinks notoc}
+
 ### Api Reference
 {: #api} 
 
 * [Overview of the Coalesce API](https://v2-0.coalesce.info/swagger-ui.html){:new_window}
+* [Detailed description of Coalesce analytics](http://coalesce.info/){:new_window}
+
+### Resources
+{: #general} 
+
+* [Coalesce resources](https://v2-0.coalesce.info/resources/){:new_window}
+-->
 
 
