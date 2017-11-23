@@ -226,21 +226,6 @@ JSON Format
     "isActive": true,
     "createdBy": "demo",
     "createdTime": "2017-01-24 11:46:58"
-  },
-  {
-    "id": 2,
-    "name": "Verizon",
-    "website": "http://www.verizon.com",
-    "owner": "JW Demo",
-    "country": "United States",
-    "descriptions": "What makes a great career? If you ask us, we’ll tell you that it’s the experience, the people and the sense of pride that comes from delivering what people want and need from the digital world.   \n\nVerizon powers America’s fastest and most reliable network. We’re also leading the way in cloud and security solutions, Internet of Things and video entertainment.  \n\nTechnology moves fast and so do we. We continuously innovate and learn from the best. We believe that bringing great ideas and customer experiences to life should be recognized and rewarded. Our work perks include competitive pay, health and wellness benefits, tuition assistance and more. You’ll find adventure in one of our many global offices, located in 150 countries and 2,700 cities. \n\nWhether you think in code, words, pictures or numbers, find your future at Verizon.",
-    "sector": "Information Technology and Services",
-    "status": "Portfolio Company",
-    "customId": "0BCD91B542E70FBC9117DA001D1E4005",
-    "aliasName": "verizon",
-    "isActive": true,
-    "createdBy": "demo",
-    "createdTime": "2017-01-24 11:46:58"
   }
 ]
 ```
@@ -406,38 +391,20 @@ JSON Format
 [
   {
     "id": 1,
-    "userId": 21,
-    "name": "Fast Growth",
+    "userId": 1,
+    "name": "LEGAL ISSUES",
     "source": {
       "name": "News and Press",
       "id": 2,
       "displayName": "News and Press"
     },
     "keywordsExclude": null,
-    "keywordsInclude": "fast growth,record growth,record breaking,Inc 5000,fast 50,employee growth,record revenue, win, grow",
+    "keywordsInclude": "Litigation, breach, fraud, sanction, penalty, accusation, investigation, convicted, lawsuit, alleged, guilty, probe, settle, violation",
     "threshold": 50,
     "rows": 10,
     "visibilityCategory": {
-      "id": 2,
-      "visibilityName": "ORGANIZATION"
-    }
-  },
-  {
-    "id": 2,
-    "userId": 21,
-    "name": "Expansion",
-    "source": {
-      "name": "News and Press",
-      "id": 2,
-      "displayName": "News and Press"
-    },
-    "keywordsExclude": null,
-    "keywordsInclude": "new office, expand,global expansion, acquisition,strategic, closes, partnership,adopts,acquire,lands,boast,recognized, announce, consolidation",
-    "threshold": 50,
-    "rows": 10,
-    "visibilityCategory": {
-      "id": 2,
-      "visibilityName": "ORGANIZATION"
+      "id": 4,
+      "visibilityName": "USER"
     }
   }
 ]
@@ -524,56 +491,62 @@ JSON Format
 ```json
 [
   {
-    "id": 91353,
-    "companyId": 29075,
-    "alertId": 9,
-    "alertName": "Fast Growth",
-    "title": "Executech : Opens New Corporate Headquarters",
-    "url": "http://www.4-traders.com/news/Executech-Opens-New-Corporate-Headquarters--25110653/",
-    "publishedDate": "09/13/2017",
+    "id": 1,
+    "companyId": 1,
+    "alertId": 1,
+    "alertName": "LEGAL ISSUES",
+    "title": "Lawyer Discusses Possible Dicamba Lawsuits Against Monsanto, BASF",
+    "url": "https://www.agweb.com/article/lawyer-discusses-possible-dicamba-lawsuits-against-monsanto-basf-naa-ashley-davenport/",
+    "publishedDate": "09/22/2017",
     "count": 1,
     "paragraphDTOList": [
       {
         "index": 0,
-        "score": 0.68,
+        "score": 0.53,
         "highlight": 1,
-        "paragraph": "Executech, Utah’s premier outsourced IT company, today opened its new corporate headquarters in South Jordan, Utah. The new office space supports the company’s current needs, as well as future growth. The company intends to increase its headcount by 70% over the next three years. "
+        "paragraph": "Lawyer Discusses Possible Dicamba Lawsuits Against Monsanto, BASF"
       },
       {
         "index": 1,
-        "score": -0.86,
+        "score": 0.61,
         "highlight": 0,
-        "paragraph": " The new headquarters more than double the company’s footprint and includes an open floorplan that was designed with teamwork in mind to allow Executech employees to collaborate on technical issues they might be facing. The office also plays host to a new state-of-the-art training  room that serves as a central location for Executech’s technicians to be trained on the latest technologies that can better serve their clients. "
+        "paragraph": "Farmers in at least 10 states have filed complaints against Monsanto and BASF claiming various levels of loss and crop damage due to dicamba-tolerant technology."
       },
       {
         "index": 2,
-        "score": -0.85,
+        "score": 0.53,
         "highlight": 0,
-        "paragraph": " “We’re extremely excited about our new corporate headquarters, and what it means to both our employees and clients,” said Eric Montague, Executech’s president and CEO. “Our new office is a testament to the great service that our employees provide to the business community and allows us to better serve them as well as support our future growth.” "
+        "paragraph": "Farmers say the chemistry caused damage by drifting away from where it was intended to go, and damaged crops and trees that couldn’t tolerate it."
       },
       {
         "index": 3,
-        "score": -0.7,
+        "score": -0.6,
         "highlight": 0,
-        "paragraph": " Executech plays a vital role in Utah’s business community by providing support to more than 2,000 company networks across the state. Its world-class IT support helps companies large and small keep their businesses running smoothly. "
+        "paragraph": "As farmers accuse the companies of negligence, the number of lawsuits are expected to climb, but it can be difficult to prove because of the companies they’re up against."
       },
       {
         "index": 4,
-        "score": -0.81,
+        "score": 0.59,
         "highlight": 0,
-        "paragraph": " “As the technology landscape continues to change, it’s imperative that our technicians are experts on the latest technologies. Our new training room gives our team the resources they need to be well-versed on every IT issue that might affect our clients,” continued Montague. "
+        "paragraph": "“Normally in a lawsuit over negligence, you would sue the person who causes the negligence,” said Todd Janzen, president of Janzen Agricultural Law LLC .. “In this case, that would be the applicator, but the lawsuit is against the company that put the product, which is dicamba, into the stream of commerce.”"
       },
       {
         "index": 5,
-        "score": -0.92,
+        "score": -0.56,
         "highlight": 0,
-        "paragraph": " To learn more about how Executech can take care of your IT services in Utah, visit www.executech.com or call us at (801) 253-4541 or e-mail us at [email protected]. "
+        "paragraph": "Janzen doesn’t represent any of the plaintiffs. He expects dicamba will remain on the market, but there’ll be additional restrictions."
       },
       {
         "index": 6,
-        "score": -0.87,
+        "score": 0.52,
         "highlight": 0,
-        "paragraph": " Based in South Jordan, Utah, Executech is an outsourced IT company that services companies in Utah, Washington, Arizona, California, Colorado and London, England. Executech's services include creating and maintaining networks, custom-built computers and servers, on-site and remote technical support, and more. For more information about Executech, visit them at www.executech.com."
+        "paragraph": "Monsanto and BASF, who developed dicamba products, have been vocal to their opposition to the ban, calling it a “major step backwards” for farmers."
+      },
+      {
+        "index": 7,
+        "score": -0.51,
+        "highlight": 0,
+        "paragraph": "Certain states have taken matters into their own hands with proposed additional restrictions. Arkansas, for example, is one step away from an in-season ban on all dicamba products."
       }
     ]
   }
