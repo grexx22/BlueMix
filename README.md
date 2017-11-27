@@ -216,7 +216,7 @@ JSON Format
     "id": 1,
     "name": "BASF",
     "website": "https://www.basf.com",
-    "owner": "JW Demo",
+    "owner": "IBM Demo",
     "country": "United States of America",
     "descriptions": "At BASF, we create chemistry for a sustainable future. We combine economic success with environmental protection and social responsibility. The approximately 112,000 employees in the BASF Group work on contributing to the success of our customers in nearly all sectors and almost every country in the world. Our portfolio is organized into five segments: Chemicals, Performance Products, Functional Materials & Solutions, Agricultural Solutions and Oil & Gas. BASF generated sales of more than €70 billion in 2015. BASF shares are traded on the stock exchanges in Frankfurt (BAS), London (BFA) and Zurich (AN).\nCredits: https://www.basf.com/en/tools/legal/credits.html.",
     "sector": "Chemicals",
