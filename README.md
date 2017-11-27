@@ -133,7 +133,7 @@ public class HttpBasicAuth {
 
 ## Entites
 
-`GET https://pg.coalesce.info/entities`
+`GET https://v2-0.coalesce.info/entities`
 
 By default this request will return the first 1000 entities.
 
@@ -555,22 +555,3 @@ JSON Format
 {: codeblock}
 
 By default the response from the API feed is in JSON format. 
-
-
-<!--  Moved Related links to toc file:
-# Related Links
-{: #rellinks notoc}
-
-### Api Reference
-{: #api} 
-
-* [Overview of the Coalesce API](https://v2-0.coalesce.info/swagger-ui.html){:new_window}
-* [Detailed description of Coalesce analytics](http://coalesce.info/){:new_window}
-
-### Resources
-{: #general} 
-
-* [Coalesce resources](https://v2-0.coalesce.info/resources/){:new_window}
--->
-
-
